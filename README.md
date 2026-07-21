@@ -27,3 +27,15 @@ Languages     : Python, JavaScript, Java, MATLAB, HTML5
 Frameworks    : Django, React, Supabase
 Tools & AI    : VS Code, GitHub, Docker, ChatGPT, Claude AI, Gemini AI
 ```
+
+---
+
+### 🎨 Signature
+
+```text
+     .--
+ .--'  '.   
+=`..-.'_ `---,  
+      ` ` .\'    
+           `'BP
+```
