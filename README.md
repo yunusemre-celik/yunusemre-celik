@@ -13,6 +13,9 @@
 <a href="https://www.linkedin.com/in/yunusemrecelik00/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<a href="https://www.instagram.com/yunusemrecelik.dev">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 <a href="mailto:yunusemrecelikbusiness@gmail.com">
   <img src="https://img.shields.io/badge/LET'S%20BUILD-84CC16?style=for-the-badge&logo=gmail&logoColor=0B1F17" alt="Email" />
 </a>
