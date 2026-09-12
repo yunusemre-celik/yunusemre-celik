@@ -105,32 +105,15 @@ status: open_for_collaboration
 
 <br />
 
-## 📈 GitHub activity
+## 🔥 Contribution streak
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yunusemre-celik&show_icons=true&hide_border=true&bg_color=F6F7F6&title_color=15803D&icon_color=84CC16&text_color=1C241E&ring_color=15803D&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemre-celik&layout=compact&hide_border=true&bg_color=F6F7F6&title_color=15803D&text_color=1C241E" alt="Top languages" />
-
-<br /><br />
 
 <img src="https://streak-stats.demolab.com?user=yunusemre-celik&hide_border=true&background=F6F7F6&ring=15803D&fire=84CC16&currStreakLabel=15803D&sideLabels=1C241E&dates=4A5B50" alt="GitHub contribution streak" />
 
 </div>
 
 <br />
-
-## 🌱 Community first
-
-<div align="center">
-
-> **Build useful things. Explain what you learn. Help others build better.**
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yunusemre-celik&bg_color=F6F7F6&color=1C241E&line=15803D&point=84CC16&area=true&hide_border=true&custom_title=The%20building%20never%20stops" alt="GitHub activity graph" width="96%" />
-
-</div>
 
 <br />
 
