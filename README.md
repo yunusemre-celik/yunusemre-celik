@@ -108,11 +108,11 @@ status: open_for_collaboration
 
 <br />
 
-## 🔥 Contribution streak
+## 🟩 Contribution calendar
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=yunusemre-celik&hide_border=true&background=F6F7F6&ring=15803D&fire=84CC16&currStreakLabel=15803D&sideLabels=1C241E&dates=4A5B50" alt="GitHub contribution streak" />
+<img src="https://ghchart.rshah.org/15803D/yunusemre-celik" alt="GitHub contribution calendar" width="96%" />
 
 </div>
 
